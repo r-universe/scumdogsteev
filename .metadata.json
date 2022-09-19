@@ -1,9 +1,5 @@
 [
   {
-    "package": "mlsjunkgen",
-    "oncran": true
-  },
-  {
     "package": "phonenumber",
     "oncran": true
   }
